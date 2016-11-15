@@ -1,0 +1,9 @@
+﻿{
+  "Age": false,
+  "Foo1Age": null,
+  "Foo1Foo2Foo1Name": "inner",
+  "Foo1Name": "abc",
+  "Foo2Name": "123",
+  "Foo2NameZype": "aaa",
+  "FooRName": null
+}

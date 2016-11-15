@@ -1,0 +1,7 @@
+﻿{
+  "FirstName": "Art",
+  "Id": 123,
+  "LastName": "Vandelay",
+  "Prop1": null,
+  "RegDate": "2000-11-15T14:15:55.3898807Z"
+}

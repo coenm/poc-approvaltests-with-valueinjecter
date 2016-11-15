@@ -1,0 +1,9 @@
+﻿{
+  "Age": false,
+  "Foo1Age": "18",
+  "Foo1Foo2Foo1Name": null,
+  "Foo1Name": null,
+  "Foo2Name": null,
+  "Foo2NameZype": null,
+  "FooRName": null
+}

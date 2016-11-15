@@ -1,0 +1,36 @@
+﻿{
+  "Age": 0,
+  "Foo1": {
+    "Age": 0,
+    "Foo1": null,
+    "Foo2": {
+      "Age": 0,
+      "Foo1": {
+        "Age": 0,
+        "Foo1": null,
+        "Foo2": null,
+        "FooR": null,
+        "Name": "cool",
+        "NameZype": null
+      },
+      "Foo2": null,
+      "FooR": null,
+      "Name": null,
+      "NameZype": null
+    },
+    "FooR": null,
+    "Name": "abc",
+    "NameZype": null
+  },
+  "Foo2": {
+    "Age": 0,
+    "Foo1": null,
+    "Foo2": null,
+    "FooR": null,
+    "Name": "123",
+    "NameZype": null
+  },
+  "FooR": null,
+  "Name": null,
+  "NameZype": null
+}
