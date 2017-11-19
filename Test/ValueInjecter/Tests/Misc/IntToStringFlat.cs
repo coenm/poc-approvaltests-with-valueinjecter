@@ -1,7 +1,7 @@
 using System.Reflection;
 using Omu.ValueInjecter.Injections;
 
-namespace Test.ValueInjecter.Tests.Mics
+namespace Test.ValueInjecter.Tests.Misc
 {
     public class IntToStringFlat : FlatLoopInjection
     {

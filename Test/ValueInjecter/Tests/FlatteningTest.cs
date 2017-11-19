@@ -3,7 +3,7 @@ using NUnit.Framework;
 using Omu.ValueInjecter;
 using Omu.ValueInjecter.Injections;
 using Test.ValueInjecter.Tests.Entities;
-using Test.ValueInjecter.Tests.Mics;
+using Test.ValueInjecter.Tests.Misc;
 
 namespace Test.ValueInjecter.Tests
 {

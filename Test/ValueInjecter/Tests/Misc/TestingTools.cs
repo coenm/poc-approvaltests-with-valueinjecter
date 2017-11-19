@@ -1,6 +1,6 @@
 using NUnit.Framework;
 
-namespace Test.ValueInjecter.Tests.Mics
+namespace Test.ValueInjecter.Tests.Misc
 {
     public static class TestingTools
     {
